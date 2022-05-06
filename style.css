@@ -6,7 +6,8 @@ body {
     min-width: 400px;
 }
 
-#input-btn {
+#input-btn,
+#tab-btn  {
     color: white;
     background-color: #5f9341;
     font-weight: bold;
